@@ -14,6 +14,8 @@
 		<code>   <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />   </code>
 	<code>   <img height="50" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="Typescript" title="Typescript" />   </code>
 	</div>
+	</br>
+	</br>
 	<div align="center">
 		<code>   <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />   </code>
 		<code>   <img height="50" src="https://digital55.com/wp-content/uploads/2022/01/Cuando_y_por_que_debo_usar_redux_en_mis_proyectos_frontend.jpg" alt="Redux" title="Redux" />   </code>
@@ -21,6 +23,8 @@
 		<code>   <img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />   </code>
 		<code>   <img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm" />   </code>
 	</div>
+	</br>
+	</br>
 	<div align="center">
 		<code>   <img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" />   </code>
 		<code>   <img height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express" />   </code>
