@@ -8,10 +8,10 @@
 - ⚡ Fun fact: my life
 
 <div align="center">
-			<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182618272-390ab138-7b29-44a0-85a2-62633957d815.png" alt="VisualStudio" title="VisualStudio" /></code>
+			<code>  <img height="50" src="https://user-images.githubusercontent.com/25181517/182618272-390ab138-7b29-44a0-85a2-62633957d815.png" alt="VisualStudio" title="VisualStudio" />   </code>
 			<code>  <img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" />   </code>
-		<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
-		<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
+		<code>  <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" />   </code>
+		<code>   <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />   </code>
 		<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code>
 	</div>
 	<div align="center">
